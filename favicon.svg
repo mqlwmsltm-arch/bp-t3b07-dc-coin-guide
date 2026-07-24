@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity 94ad9f8d1ef8bbeb</metadata>
-  <rect width="64" height="64" rx="9" fill="hsl(261 49% 30%)"/>
-  <path d="M30 0h34v64H16Z" fill="hsl(323 55% 73%)" opacity="0.82"/>
-  <g transform="rotate(156 32 32)" opacity="0.42"><path d="M17 13h30v38H17zM10 24h44" fill="none" stroke="#ffffff" stroke-width="6" stroke-linejoin="round"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">DR</text>
+  <title>등촌 코인노래방 가이드</title>
+  <rect width="64" height="64" rx="13" fill="hsl(261 47% 30%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(345 68% 65%)" opacity="0.16"/>
+  <g transform="rotate(0 32 32)"><path d="M44 20a17 17 0 1 0 6 14" fill="none" stroke="hsl(261 24% 96%)" stroke-width="6" stroke-linecap="round"/><circle cx="44" cy="20" r="5" fill="hsl(345 68% 65%)"/></g>
 </svg>
